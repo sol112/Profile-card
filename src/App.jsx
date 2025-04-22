@@ -7,7 +7,7 @@ function App() {
     <div>
       {data.map((profile) => (
         <ProfileCard
-          name={profile.name}
+          namee={profile.name}
           age={profile.age}
           occupation={profile.occupation}
           profileImage={profile.profileImage}

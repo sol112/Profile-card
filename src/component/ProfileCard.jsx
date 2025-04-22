@@ -12,7 +12,7 @@ function ProfileCard(props) {
               className="profileImage"
             />
           </div>
-          <div className="name">{props.name}</div>
+          <div className="name">{props.namee}</div>
           <div className="age">{props.age}</div>
           <div className="occupation">{props.occupation}</div>
         </div>
